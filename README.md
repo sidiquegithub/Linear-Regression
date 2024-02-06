@@ -7,7 +7,7 @@
 ### Data
 https://github.com/sidiquegithub/Linear-Regression/blob/main/DATA/student_scores.csv
 
-### Analysi
+### Analysis
 https://github.com/sidiquegithub/Linear-Regression/blob/main/CODE/REGRESSION%20MODEL.ipynb
 
 ## Scatter Plot 
