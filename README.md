@@ -1,13 +1,13 @@
 # Linear-Regression
 <br>
-To perform linear regression on this data, and train the model for prediction. After training, evaluate the model with MAE, MSE, and RMSE. 
+- To perform linear regression on the given data, and train the model for prediction. After training, evaluate the model with MAE, MSE, and RMSE. 
+- The data contains scores obtained by 25 students in an exam, along with the number of hours spent studying. 
 
-https://github.com/sidiquegithub/Linear-Regression/blob/main/CODE/REGRESSION%20MODEL.ipynb
-
-
-The data contains scores obtained by 25 students in an exam, along with the number of hours spent studying. 
-
+### Data
 https://github.com/sidiquegithub/Linear-Regression/blob/main/DATA/student_scores.csv
+
+### Analysi
+https://github.com/sidiquegithub/Linear-Regression/blob/main/CODE/REGRESSION%20MODEL.ipynb
 
 ## Scatter Plot 
 ![download](https://github.com/sidiquegithub/Linear-Regression/assets/110783832/fee20aed-aa3b-4d7e-93d4-ed0cce877135)
