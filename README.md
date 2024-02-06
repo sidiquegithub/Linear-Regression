@@ -2,7 +2,7 @@
 <br>
 To perform linear regression on this data, and train the model for prediction. After training, evaluate the model with MAE, MSE, and RMSE. 
 
-(https://github.com/sidiquegithub/Linear-Regression/blob/main/CODE/REGRESSION%20MODEL.ipynb)
+https://github.com/sidiquegithub/Linear-Regression/blob/main/CODE/REGRESSION%20MODEL.ipynb
 
 
 The data contains scores obtained by 25 students in an exam, along with the number of hours spent studying. 
