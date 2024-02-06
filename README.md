@@ -1,6 +1,7 @@
 # Linear-Regression
 <br>
 - To perform linear regression on the given data, and train the model for prediction. After training, evaluate the model with MAE, MSE, and RMSE. 
+<br>
 - The data contains scores obtained by 25 students in an exam, along with the number of hours spent studying. 
 
 ### Data
