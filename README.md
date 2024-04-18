@@ -1,6 +1,9 @@
 # Linear-Regression
 <br>
 - To perform linear regression on the given data, and train the model for prediction. After training, evaluate the model with MAE, MSE, and RMSE. 
+<br> 
+- Also to perform homoscedasticity test
+
 <br>
 - The data contains scores obtained by 25 students in an exam, along with the number of hours spent studying. 
 
@@ -31,3 +34,25 @@ Mean Absolute Error is =  4.859304931231131
 Mean Squared Error is =  30.159672050910384
 
 Root Mean Squared Error is; RMSE =  5.491782229013673
+
+## Homoscdesticity test
+
+- Homoscedasticity means that the residuals (differences between observed and predicted values) have constant variance across all levels of the predicto
+
+For this we can make use of following
+   
+   - Graphical Test
+   - Statistical Test
+     
+Graphical Test Result
+
+![download](https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/assets/110783832/c6344e12-2f4e-435f-9ae5-d37ffb19fb09)   
+
+
+Statistical Test Result 
+
+Breusch-Pagan Test: A statistical test for homoscedasticity. It tests the null hypothesis that the variance of the residuals is constant across the range of data.
+
+Since p value = 0.1191 >  0.05 no evidence against the null hypothesis
+
+So we can continue our assumption of homoscedasticity
