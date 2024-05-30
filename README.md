@@ -24,4 +24,6 @@ https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/00%20
 
 4) LOGISTIC REGRESSION
 
-I have developed a custom function to perform Linear Regression without relying on the sklearn module. You can find the implementation and detailed explanations
+I have developed a custom function to perform Linear Regression without relying on the sklearn module. You can find the implementation and detailed explanations:
+
+https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/EXAMPLE%20(Linear%20Regression%20without%20LinearRegression()%20.ipynb
