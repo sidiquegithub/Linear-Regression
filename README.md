@@ -1,6 +1,8 @@
 # $LINEAR \ REGRESSION$
 
-You can find detailed notes on Linear Regression in the following Jupyter Notebook://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/00%20NOTES%20ON%20LINEAR%20REGRESSION.ipynb
+You can find detailed notes on Linear Regression in the following Jupyter Notebook:
+
+https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/00%20NOTES%20ON%20LINEAR%20REGRESSION.ipynb
 
 ## Table of Contents
 0) OBJECTIVE OF REGRESSION ANALYSIS
