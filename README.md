@@ -1,7 +1,8 @@
 # $LINEAR \ REGRESSION$
 
-You can find belowe mentioned notes in https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/00%20NOTES%20ON%20LINEAR%20REGRESSION.ipynb
+You can find detailed notes on Linear Regression in the following Jupyter Notebook://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/00%20NOTES%20ON%20LINEAR%20REGRESSION.ipynb
 
+## Table of Contents
 0) OBJECTIVE OF REGRESSION ANALYSIS
 1) SIMPLE LINEAR REGRESSION
     - 1.1) DEFENITION
@@ -21,3 +22,4 @@ You can find belowe mentioned notes in https://github.com/sidiquegithub/ML-MODEL
 
 4) LOGISTIC REGRESSION
 
+I have developed a custom function to perform Linear Regression without relying on the sklearn module. You can find the implementation and detailed explanations
