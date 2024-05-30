@@ -24,6 +24,46 @@ https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/00%20
 
 4) LOGISTIC REGRESSION
 
+## Custom Function For Linear Regression
 I have developed a custom function to perform Linear Regression without relying on the sklearn module. You can find the implementation and detailed explanations:
 
 https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/EXAMPLE%20(Linear%20Regression%20without%20LinearRegression()%20.ipynb
+
+## Implementation of Linear Regression on different datasets
+The following Jupyter Notebooks contain the implementation and evaluation of the Linear Regression model across various datasets:
+
+1) https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/EXAMPLE%200.ipynb
+2) https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/EXAMPLE%201.ipynb
+3) https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/EXAMPLE%202.ipynb
+
+These notebooks demonstrate:
+
+- The step-by-step development of the Linear Regression model from scratch.
+- Detailed parameter estimation and model fitting processes.
+- Comprehensive evaluation metrics to assess model performance.
+- Practical applications on different datasets to showcase versatility and robustness.
+
+## Linear Regression with Transformed Variables
+The following Jupyter Notebooks demonstrate how to implement Linear Regression with transformed variables:
+https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/EXAMPLE%204%20(REGRESSION%20WITH%20TRANSFORMED%20VARIABLE)%20.ipynb
+
+These notebooks cover:
+
+- The rationale and techniques for transforming variables to improve model performance.
+- Step-by-step implementation of Linear Regression with transformed predictors.
+- Evaluation of model adequacy and performance metrics after transformation.
+- Practical examples illustrating the impact of variable transformation on regression results.
+
+## Multiple Regression
+
+Jupyter notebook link:
+https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/EXAMPLE%205%20%20(MULTIPLE%20REGRESSION%20MODEL).ipynb
+
+## Inference on slope term
+
+https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/EXAMPLE%206%20(INFERENCE%20ON%20SLOPE).ipynb
+
+## Logistic Regression
+
+https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/EXAMPLE%207%20(LOGISTIC%20REGRESSION).ipynb
+
