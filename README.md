@@ -1,6 +1,7 @@
 # $LINEAR \ REGRESSION$
 
-You can find belowe mentioned notes in 
+You can find belowe mentioned notes in https://github.com/sidiquegithub/ML-MODEL-LINEAR-REGRESSION/blob/main/CODE/00%20NOTES%20ON%20LINEAR%20REGRESSION.ipynb
+
 0) OBJECTIVE OF REGRESSION ANALYSIS
 1) SIMPLE LINEAR REGRESSION
     - 1.1) DEFENITION
